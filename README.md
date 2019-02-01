@@ -1,2 +1,2 @@
 # nucledigital-hub.github.io
-:company: Núcleo Digital landing page
+Núcleo Digital landing page
