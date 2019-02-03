@@ -18,6 +18,8 @@ social:
     url: https://facebook.com/nucleo.dig
   - title: instagram
     url: https://instagram.com/digital.nucleo
+  - title: linkedin
+    url: 
 
 # Build settings
 markdown: kramdown
