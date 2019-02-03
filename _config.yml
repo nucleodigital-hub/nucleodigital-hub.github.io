@@ -1,5 +1,5 @@
 # Site settings
-title: Núcleo
+title: Nucleo Digital
 email: contato@nucleo.digital
 url: https://nucleo.digital
 description: "Somos uma empresa focada em soluções para comunicação digital. Buscamos fornecer a melhor experiência da gestão da sua marca no ambiente on-line, trazendo resultados efetivos."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Nucleo Digital
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:  
