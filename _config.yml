@@ -2,7 +2,7 @@
 title: Nucleo Digital
 email: contato@nucleo.digital
 url: https://nucleo.digital
-description: "Somos uma empresa focada em soluções para comunicação digital. Buscamos fornecer a melhor experiência da gestão da sua marca no ambiente on-line, trazendo resultados efetivos."
+description: "Focada em soluções para comunicação digital, buscamos fornecer a melhor experiência da gestão da sua marca no ambiente on-line, trazendo resultados efetivos."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -19,7 +19,7 @@ social:
   - title: instagram
     url: https://instagram.com/digital.nucleo
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/company/digital-nucleo
 
 # Build settings
 markdown: kramdown
