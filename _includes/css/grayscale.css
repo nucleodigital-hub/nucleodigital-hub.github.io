@@ -320,13 +320,6 @@ ul.banner-social-buttons li {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
-
-    .img-responsive {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
 }
 
 @media(max-width:767px) {
@@ -340,12 +333,6 @@ ul.banner-social-buttons li {
         margin-bottom: 0;
     }
 
-    .img-responsive {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
 }
 
 footer {
@@ -382,7 +369,7 @@ body {
 
 .img-responsive {
     width: 100%;
-    max-width: 360px;
+    /* max-width: 360px; */
     height: auto;
 }
 
