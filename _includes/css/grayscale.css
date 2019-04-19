@@ -320,6 +320,13 @@ ul.banner-social-buttons li {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
+
+    .img-responsive {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
 }
 
 @media(max-width:767px) {
@@ -331,6 +338,13 @@ ul.banner-social-buttons li {
 
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
+    }
+
+    .img-responsive {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 }
 
@@ -368,6 +382,13 @@ body {
 
 .img-responsive {
     width: 100%;
-    max-width: 400px;
+    max-width: 360px;
     height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
