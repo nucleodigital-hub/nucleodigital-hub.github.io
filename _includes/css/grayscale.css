@@ -381,5 +381,9 @@ body {
   }
 
 .list-inline > li {
-    padding-bottom: 10px
+    padding-bottom: 10px;
+}
+
+.navbar-brand {
+    float: none;
 }
