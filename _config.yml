@@ -23,6 +23,22 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/company/digital-nucleo
 
+customers:
+  - title: Orquídea Alimentos
+    url:
+  - title: Vipal Borrachas
+    url:      
+  - title: Fruki Guaraná
+    url:    
+  - title: Panvel Farmácias
+    url:    
+  - title: Cervejaria Bellavista
+    url:    
+  - title: iPlace
+    url:    
+  - title: Móveis Alminhana
+    url: 
+
 # Build settings
 markdown: kramdown
 permalink: pretty

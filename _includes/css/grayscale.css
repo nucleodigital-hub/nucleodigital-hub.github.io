@@ -379,3 +379,7 @@ body {
     margin-right: auto;
     width: 50%;
   }
+
+.list-inline > li {
+    padding-bottom: 10px
+}
